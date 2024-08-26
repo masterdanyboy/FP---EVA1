@@ -45,8 +45,19 @@ public class EVA1_2_VARIABLE {
        String nombre;
        String apellido;
        String curp;
-       float promedio; 
-       System.out.println(100
-       System.out.print(true);      //boolean
+       double promedio; 
+       int edad;
+       
+       edad = 22; //ASIGNACIÓN: estoy colocando el valor 18
+                  //dentro de la variable edad
+       nombre = "DANIEL";
+       apellido = "NAVARRETE CARMONA";
+       promedio = 7.0;
+       
+       System.out.println(edad);
+       System.out.println (nombre);
+       System.out.println (apellido);
+       System.out.println (promedio);
+       
     }
 }
