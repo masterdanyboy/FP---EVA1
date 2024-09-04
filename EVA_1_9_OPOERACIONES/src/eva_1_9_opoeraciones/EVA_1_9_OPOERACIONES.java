@@ -54,8 +54,8 @@ public class EVA_1_9_OPOERACIONES {
         double resu;
         resu = val1 / val2;
         
-        System.out.println(val1);
-        System.out.println(val2);
+        System.out.println("División de val1 (5) / val2 (2)");
+        System.out.println(resu);
                 
                 
         
