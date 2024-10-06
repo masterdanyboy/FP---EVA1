@@ -25,6 +25,18 @@ public class EVA_1_16_TIPO_HACIENDA {
         //IMPRIMIR EL TIPO DE PERSONA:
         //"" --> CADENA DE TEXTO, " --> ES UN CARACTER
         //"F"
+        if(tipo == 'F'){
+            System.out.println("Hacienda tipo física");
+        }
+        
+        else if(tipo == 'M'){
+        System.out.println("Hacienda tipo moral");
+        }
+        else{
+            System.out.println("Tipo de hacenda no válido");
+            
+                                           
+        }
     }
-    
 }
+
